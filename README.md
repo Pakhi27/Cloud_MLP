@@ -1,5 +1,9 @@
 # **Cloud-Based Multimodal Language Processing System**
 
+## Team Members
+- **Pakhi Singhal** – 22BDS042  
+- **Ravi Raj** – 22BDS051  
+- **Preethi Varshala S** – 22BDS045
 
 ## Project Overview
 
